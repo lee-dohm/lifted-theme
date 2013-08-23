@@ -466,6 +466,75 @@
         <string>#61CE3C</string>
       </dict>
     </dict>
+    <dict>
+      <key>name</key>
+      <string>diff: header</string>
+      <key>scope</key>
+      <string>meta.diff, meta.diff.header</string>
+      <key>settings</key>
+      <dict>
+        <key>background</key>
+        <string>#6e97e4</string>
+        <key>fontStyle</key>
+        <string>italic</string>
+        <key>foreground</key>
+        <string>#E0EDDD</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>diff: separator</string>
+      <key>scope</key>
+      <string>meta.diff.range</string>
+      <key>settings</key>
+      <dict>
+        <key>background</key>
+        <string>#4e7cd4</string>
+        <key>fontStyle</key>
+        <string>italic</string>
+        <key>foreground</key>
+        <string>#F8F8F8</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>⎇ diff.deleted</string>
+      <key>scope</key>
+      <string>markup.deleted</string>
+      <key>settings</key>
+      <dict>
+        <key>background</key>
+        <string>#ff5e51</string>
+        <key>foreground</key>
+        <string>#FFFFFF</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>⎇ diff.changed</string>
+      <key>scope</key>
+      <string>markup.changed</string>
+      <key>settings</key>
+      <dict>
+        <key>background</key>
+        <string>#4A410D</string>
+        <key>foreground</key>
+        <string>#F8F8F8</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>⎇ diff.inserted</string>
+      <key>scope</key>
+      <string>markup.inserted</string>
+      <key>settings</key>
+      <dict>
+        <key>background</key>
+        <string>#7ef883</string>
+        <key>foreground</key>
+        <string>#000000</string>
+      </dict>
+    </dict>
 	</array>
 	<key>uuid</key>
 	<string>9154E311-E42E-4E08-B544-810221420BB7</string>
