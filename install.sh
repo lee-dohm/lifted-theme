@@ -1,3 +1,3 @@
 #!/bin/bash
 
-system 'cp -f *.tmTheme "~/Library/Application Support/Sublime Text 3/Packages/"'
+cp -f *.tmTheme "$HOME/Library/Application Support/Sublime Text 3/Packages/"
