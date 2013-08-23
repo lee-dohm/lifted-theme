@@ -378,24 +378,13 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>Markdown: Heading Marker</string>
+      <string>Markdown: Heading</string>
       <key>scope</key>
-      <string>markup.heading.markdown</string>
+      <string>markup.heading.markdown, entity.name.section.markdown</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
         <string>#FF6400</string>
-      </dict>
-    </dict>
-    <dict>
-      <key>name</key>
-      <string>Markdown: Heading Text</string>
-      <key>scope</key>
-      <string>entity.name.section.markdown</string>
-      <key>settings</key>
-      <dict>
-        <key>foreground</key>
-        <string>#D8FA3C</string>
       </dict>
     </dict>
     <dict>
