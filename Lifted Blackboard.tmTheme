@@ -367,6 +367,17 @@
     </dict>
     <dict>
       <key>name</key>
+      <string>Ruby: String Interpolation Code</string>
+      <key>scope</key>
+      <string>source.ruby.embedded.source</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#74F748</string>
+      </dict>
+    </dict>    
+    <dict>
+      <key>name</key>
       <string>Ruby: Class Constant</string>
       <key>scope</key>
       <string>variable.other.constant.ruby</string>
@@ -531,6 +542,17 @@
         <string>#7ef883</string>
         <key>foreground</key>
         <string>#000000</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Git Config: Section Name</string>
+      <key>scope</key>
+      <string>meta.header</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#FF6400</string>
       </dict>
     </dict>
 	</array>
