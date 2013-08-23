@@ -7,7 +7,7 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Domenico Carbotta</string>
+	<string>Lee Dohm</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>divider</key>
@@ -16,9 +16,9 @@
 		<string>#0C1021</string>
 	</dict>
 	<key>name</key>
-	<string>Blackboard</string>
+	<string>Lifted Blackboard</string>
 	<key>semanticClass</key>
-	<string>theme.dark.blackboard</string>
+	<string>theme.dark.blackboard.lifted</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -358,13 +358,13 @@
 		</dict>
     <dict>
       <key>name</key>
-      <string>Ruby: Punctuation String Interpolation</string>
+      <string>Ruby: String Interpolation Punctuation</string>
       <key>scope</key>
       <string>punctuation.section.embedded.ruby</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#61CE3C</string>
+        <string>#D8FA3C</string>
       </dict>
     </dict>
 	</array>
