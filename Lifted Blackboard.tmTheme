@@ -369,6 +369,17 @@
     </dict>
     <dict>
       <key>name</key>
+      <string>Ruby: Class Constant</string>
+      <key>scope</key>
+      <string>variable.other.constant.ruby</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#FF6400</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
       <string>Markdown: Heading Marker</string>
       <key>scope</key>
       <string>markup.heading.markdown</string>
@@ -431,6 +442,28 @@
       <dict>
         <key>fontStyle</key>
         <string>italic</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Java: Import Text</string>
+      <key>scope</key>
+      <string>storage.modifier.import.java</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#61CE3C</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Java: Package Text</string>
+      <key>scope</key>
+      <string>storage.modifier.package.java</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#61CE3C</string>
       </dict>
     </dict>
 	</array>
