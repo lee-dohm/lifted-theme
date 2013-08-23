@@ -110,8 +110,6 @@
 			<string>string, meta.verbatim</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#61CE3C</string>
 			</dict>
