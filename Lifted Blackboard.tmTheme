@@ -389,6 +389,17 @@
     </dict>
     <dict>
       <key>name</key>
+      <string>Markdown: Link Punctuation</string>
+      <key>scope</key>
+      <string>punctuation.definition.constant.markdown, punctuation.separator.key-value.markdown, punctuation.definition.constant.begin.markdown, punctuation.definition.constant.end.markdown, punctuation.definition.string.begin.markdown, punctuation.definition.string.end.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#FF6400</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
       <string>Markdown: Link URL</string>
       <key>scope</key>
       <string>markup.underline.link.markdown</string>
