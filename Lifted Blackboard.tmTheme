@@ -367,6 +367,72 @@
         <string>#D8FA3C</string>
       </dict>
     </dict>
+    <dict>
+      <key>name</key>
+      <string>Markdown: Heading Marker</string>
+      <key>scope</key>
+      <string>markup.heading.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#FF6400</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Markdown: Heading Text</string>
+      <key>scope</key>
+      <string>entity.name.section.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#D8FA3C</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Markdown: Link URL</string>
+      <key>scope</key>
+      <string>markup.underline.link.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#D8FA3C</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Markdown: Preformatted Inline</string>
+      <key>scope</key>
+      <string>markup.raw.inline.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#61CE3C</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Markdown: Bold</string>
+      <key>scope</key>
+      <string>markup.bold.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>bold</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Markdown: Italic</string>
+      <key>scope</key>
+      <string>markup.italic.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>italic</string>
+      </dict>
+    </dict>
 	</array>
 	<key>uuid</key>
 	<string>9154E311-E42E-4E08-B544-810221420BB7</string>
